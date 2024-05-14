@@ -1,3 +1,3 @@
-# RepoSense
+# CS2103/T tP Code Dashboard AY2324S2
 
-RepoSense is a powerful tool for analyzing repositories. It provides valuable insights into your codebase, helping you understand the development patterns, identify areas for improvement, and track the contributions of individual team members.
+This code dashboard shows the team project (tP) code of [CS2103/T](https://nus-cs2103-ay2324s2.github.io/) 2023/2024 Semester 2 batch of students.
